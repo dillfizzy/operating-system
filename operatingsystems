@@ -1,0 +1,7 @@
+# operating-system
+operating-system/
+├── assignments/
+├── systemproject/
+└── scripts/
+    ├── bash/
+    └── powershell/
